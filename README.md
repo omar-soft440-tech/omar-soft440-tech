@@ -1,11 +1,11 @@
 <!-- CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=250&section=header&text=OMAR%20%7C%20AI%20ENGINEER&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=250&section=header&text=OMAR%20%7C%20SOFTWARE%20&%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Neon Divider -->
+<!-- Neon Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=800&lines=Cyberpunk+AI+Developer;Full+Stack+Engineer;Python+%7C+PHP+%7C+JavaScript;Building+Intelligent+Digital+Systems;Smart+Automation+Architect+⚡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=800&lines=Cyberpunk+AI+Developer;Full+Stack+Engineer;Python+%7C+PHP+%7C+JavaScript;Building+Intelligent+Digital+Systems;Automation+&+Smart+Solutions"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ```diff
 + Name: Omar
 + Role: AI Integrated Software Developer
-+ Focus: Smart Systems + Automation + AI Solutions
++ Focus: Smart Systems + Automation + AI + Full Stack Development
 + Mission: Build futuristic digital experiences
 ```
 
@@ -32,13 +32,14 @@
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-soft440-tech&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-soft440-tech&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://omar-soft440-tech.vercel.app/api?username=omar-soft440-tech&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  
+  <img src="https://omar-soft440-tech.vercel.app/api/top-langs/?username=omar-soft440-tech&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🔥 STREAK MATRIX
+## 🔥 GITHUB STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omar-soft440-tech&theme=radical&hide_border=true"/>
@@ -46,7 +47,7 @@
 
 ---
 
-## 🤖 AI CORE
+## 🤖 AI & DEVELOPMENT CORE
 
 ```python
 class CyberpunkEngineer:
@@ -62,6 +63,9 @@ class CyberpunkEngineer:
 
     def activate_ai_mode(self):
         return "Deploying Intelligent Digital Systems 🚀⚡"
+
+    def full_stack_development(self):
+        return "Building websites, apps & smart automation solutions 💻"
 ```
 
 ---
@@ -74,6 +78,9 @@ class CyberpunkEngineer:
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-333399?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOURPROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 

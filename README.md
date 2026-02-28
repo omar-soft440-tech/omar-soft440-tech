@@ -77,10 +77,10 @@ class CyberpunkEngineer:
     <img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-333399?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/Portfolio-333399?style=for-the-badge&logo=google-chrome&logoColor=white](https://edara.site/)"/>
   </a>
   <a href="https://linkedin.com/in/YOURPROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/omar-ahmad-9b1a283b3/)"/>
   </a>
 </p>
 

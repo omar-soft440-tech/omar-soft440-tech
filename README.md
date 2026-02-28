@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20World%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm [اسمك هنا]</h1>
+<h1 align="center">Hi 👋 I'm [omar]</h1>
 <h3 align="center">Software Developer | AI Integrated Digital Solutions</h3>
 
 <!-- Typing Animation -->
@@ -13,11 +13,10 @@
 
 ---
 
-## 🚀 About Me
-- 💡 مطور برمجيات وحلول رقمية ذكية
-- 🤖 متخصص في دمج الذكاء الاصطناعي في الأنظمة
-- 🌍 أبني أنظمة ويب وتطبيقات احترافية
-- ⚡ أعشق الأتمتة والأنظمة الذكية
+## 🚀 About Me- 💡 Developer of software and smart digital solutions
+- 🤖 Specialized in integrating artificial intelligence into systems
+- 🌍 I build professional web systems and applications
+- ⚡ I love automation and smart systems
 
 ---
 
@@ -54,7 +53,7 @@
 ```python
 class SmartDeveloper:
     def __init__(self):
-        self.name = "[اسمك]"
+        self.name = "[omar]"
         self.role = "AI Integrated Software Developer"
         self.languages = ["Python", "PHP", "JavaScript", "SQL"]
         self.frameworks = ["Laravel"]

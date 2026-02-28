@@ -73,13 +73,13 @@ class CyberpunkEngineer:
 ## 🌐 CONNECT TO THE GRID
 
 <p align="center">
-  <a href="[mailto:your@email.com](https://mail.google.com/mail/u/0/#inbox)">
+  <a href="mailto:your@email.com](https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="(https://edara.site/)">
+  <a href="https://edara.site/">
     <img src="https://img.shields.io/badge/Portfolio-333399?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="[https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/omar-ahmad-9b1a283b3/)">
+  <a href="https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/omar-ahmad-9b1a283b3/">
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

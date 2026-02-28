@@ -1,11 +1,11 @@
-<!-- ULTRA CYBERPUNK HEADER -->
+<!-- ULTRA CYBERPUNK NEON V2 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=250&section=header&text=OMAR%20%7C%20SOFTWARE%20&%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=300&section=header&text=OMAR%20%7C%20SOFTWARE%20&%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<!-- Neon Typing Animation -->
+<!-- Neon Typing Animation with Glow -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=800&lines=Cyberpunk+AI+Developer;Full+Stack+Engineer;Python+%7C+PHP+%7C+JavaScript;React.js+%7C+Vite;Building+Intelligent+Digital+Systems;Automation+&+Smart+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF00FF&center=true&vCenter=true&width=900&lines=Cyberpunk+AI+Developer;Full+Stack+Engineer;Python+%7C+PHP+%7C+JavaScript;React.js+%7C+Vite;Building+Intelligent+Digital+Systems;Automation+&+Smart+Solutions" style="filter: drop-shadow(0 0 5px #ff00ff);"/>
 </p>
 
 ---
@@ -21,28 +21,28 @@
 
 ---
 
-## ⚡ TECH ARSENAL
+## ⚡ TECH ARSENAL (Hover Neon Glow)
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,php,js,html,css,laravel,mysql,figma,react,vite&theme=dark" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,php,js,html,css,laravel,mysql,figma,react,vite&theme=dark" height="60" style="transition: transform 0.4s, filter 0.4s;" onmouseover="this.style.transform='scale(1.4)'; this.style.filter='drop-shadow(0 0 15px #ff00ff) drop-shadow(0 0 10px #00ffff)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 0px #000)';"/></a>
 </p>
 
 ---
 
-## 📊 SYSTEM ANALYTICS (Hover Animated)
+## 📊 SYSTEM ANALYTICS (Hover Neon Glow)
 
 <p align="center">
-  <a href="#"><img src="https://omar-soft440-tech.vercel.app/api?username=omar-soft440-tech&show_icons=true&theme=radical&hide_border=true" height="180" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#"><img src="https://omar-soft440-tech.vercel.app/api?username=omar-soft440-tech&show_icons=true&theme=radical&hide_border=true" height="180" style="transition: transform 0.4s, filter 0.4s;" onmouseover="this.style.transform='scale(1.08)'; this.style.filter='drop-shadow(0 0 20px #ff00ff) drop-shadow(0 0 10px #00ffff)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 0px #000)';"/></a>
 
-  <a href="#"><img src="https://omar-soft440-tech.vercel.app/api/top-langs/?username=omar-soft440-tech&layout=compact&theme=radical&hide_border=true" height="180" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#"><img src="https://omar-soft440-tech.vercel.app/api/top-langs/?username=omar-soft440-tech&layout=compact&theme=radical&hide_border=true" height="180" style="transition: transform 0.4s, filter 0.4s;" onmouseover="this.style.transform='scale(1.08)'; this.style.filter='drop-shadow(0 0 20px #ff00ff) drop-shadow(0 0 10px #00ffff)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 0px #000)';"/></a>
 </p>
 
 ---
 
-## 🔥 GITHUB STREAK (Hover Animated)
+## 🔥 GITHUB STREAK (Hover Neon Glow)
 
 <p align="center">
-  <a href="#"><img src="https://streak-stats.demolab.com?user=omar-soft440-tech&theme=radical&hide_border=true" height="180" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=omar-soft440-tech&theme=radical&hide_border=true" height="180" style="transition: transform 0.4s, filter 0.4s;" onmouseover="this.style.transform='scale(1.08)'; this.style.filter='drop-shadow(0 0 20px #ff00ff) drop-shadow(0 0 10px #00ffff)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 0px #000)';"/></a>
 </p>
 
 ---
@@ -70,23 +70,23 @@ class CyberpunkEngineer:
 
 ---
 
-## 🌐 CONNECT TO THE GRID
+## 🌐 CONNECT TO THE GRID (Hover Neon Glow)
 
 <p align="center">
-  <a href="mailto:your@email.com](https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white" style="transition: filter 0.4s;" onmouseover="this.style.filter='drop-shadow(0 0 20px #ff00ff) drop-shadow(0 0 10px #00ffff)'" onmouseout="this.style.filter='drop-shadow(0 0 0px #000)';"/>
   </a>
   <a href="https://edara.site/">
-    <img src="https://img.shields.io/badge/Portfolio-333399?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-333399?style=for-the-badge&logo=google-chrome&logoColor=white" style="transition: filter 0.4s;" onmouseover="this.style.filter='drop-shadow(0 0 20px #ff00ff) drop-shadow(0 0 10px #00ffff)'" onmouseout="this.style.filter='drop-shadow(0 0 0px #000)';"/>
   </a>
-  <a href="https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/omar-ahmad-9b1a283b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOURPROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: filter 0.4s;" onmouseover="this.style.filter='drop-shadow(0 0 20px #ff00ff) drop-shadow(0 0 10px #00ffff)'" onmouseout="this.style.filter='drop-shadow(0 0 0px #000)';"/>
   </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- FOOTER Animated Neon -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=180&section=footer&animation=fadeIn"/>
 </p>

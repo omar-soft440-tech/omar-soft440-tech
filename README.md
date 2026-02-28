@@ -1,11 +1,11 @@
-<!-- CYBERPUNK HEADER -->
+<!-- ULTRA CYBERPUNK HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=250&section=header&text=OMAR%20%7C%20SOFTWARE%20&%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- Neon Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=800&lines=Cyberpunk+AI+Developer;Full+Stack+Engineer;Python+%7C+PHP+%7C+JavaScript;Building+Intelligent+Digital+Systems;Automation+&+Smart+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=800&lines=Cyberpunk+AI+Developer;Full+Stack+Engineer;Python+%7C+PHP+%7C+JavaScript;React.js+%7C+Vite;Building+Intelligent+Digital+Systems;Automation+&+Smart+Solutions"/>
 </p>
 
 ---
@@ -24,25 +24,25 @@
 ## ⚡ TECH ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,laravel,mysql,figma&theme=dark" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,php,js,html,css,laravel,mysql,figma,react,vite&theme=dark" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </p>
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## 📊 SYSTEM ANALYTICS (Hover Animated)
 
 <p align="center">
-  <img src="https://omar-soft440-tech.vercel.app/api?username=omar-soft440-tech&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  
-  <img src="https://omar-soft440-tech.vercel.app/api/top-langs/?username=omar-soft440-tech&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <a href="#"><img src="https://omar-soft440-tech.vercel.app/api?username=omar-soft440-tech&show_icons=true&theme=radical&hide_border=true" height="180" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
+
+  <a href="#"><img src="https://omar-soft440-tech.vercel.app/api/top-langs/?username=omar-soft440-tech&layout=compact&theme=radical&hide_border=true" height="180" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </p>
 
 ---
 
-## 🔥 GITHUB STREAK
+## 🔥 GITHUB STREAK (Hover Animated)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omar-soft440-tech&theme=radical&hide_border=true"/>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=omar-soft440-tech&theme=radical&hide_border=true" height="180" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </p>
 
 ---
@@ -56,7 +56,7 @@ class CyberpunkEngineer:
         self.name = "Omar"
         self.stack = {
             "Backend": ["Python", "PHP", "Laravel"],
-            "Frontend": ["HTML", "CSS", "JavaScript"],
+            "Frontend": ["HTML", "CSS", "JavaScript", "React.js", "Vite"],
             "Database": ["MySQL", "SQL"],
             "Design": ["Figma"]
         }
